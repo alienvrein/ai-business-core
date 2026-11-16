@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Security vulnerability · Vulnerabilidad de seguridad
+    url: https://github.com/alienvrein/ai-business-core/security/advisories/new
+    about: Report it privately, never in a public issue. · Infórmala en privado, nunca en un issue público.
+  - name: Obligations registry · Registro de obligaciones
+    url: https://aibusinesscore.com/en/registry
+    about: Regulation data is not in this repository. · Los datos de normas no están en este repositorio.

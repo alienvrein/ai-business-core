@@ -1,0 +1,40 @@
+{
+  "name": "@vreinn/aibc-engine",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "license": "Apache-2.0",
+  "description": "Deterministic, rules-based reference engine of AI Business Core: matches an organization profile against the applicability conditions of a knowledge base. No AI, no network, no storage.",
+  "author": "VREINN SAS",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alienvrein/ai-business-core.git",
+    "directory": "engine"
+  },
+  "sideEffects": false,
+  "exports": {
+    ".": "./src/index.ts",
+    "./assess": "./src/assess.ts",
+    "./profile": "./src/profile.ts",
+    "./countries": "./src/countries.ts",
+    "./guided": "./src/guided.ts"
+  },
+  "files": [
+    "src/*.ts",
+    "!src/*.test.ts",
+    "README.md",
+    "LICENSE",
+    "NOTICE"
+  ],
+  "scripts": {
+    "test": "vitest run",
+    "typecheck": "tsc --noEmit",
+    "example": "tsx ../examples/basic.ts"
+  },
+  "devDependencies": {
+    "@types/node": "^24.0.0",
+    "typescript": "~5.9.3",
+    "vitest": "^4.0.0",
+    "tsx": "^4.20.0"
+  }
+}
