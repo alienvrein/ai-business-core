@@ -2,11 +2,20 @@ cff-version: 1.2.0
 message: "If you use AI Business Core, please cite it using these metadata."
 type: software
 title: "AI Business Core"
-abstract: "AI Business Core (AIBC) is the AI adoption and governance framework by VREINN SAS. This repository explains the framework and holds its deterministic, rules-based engine, which matches an organization profile against the applicability conditions of a knowledge base. Reference information, not legal advice."
+abstract: "AI Business Core (AIBC) is the AI adoption and governance framework created by VREINN (framework lead: Alien Martínez); GROU LLC holds the rights and publishes it. This repository explains the framework and holds its deterministic, rules-based engine, which matches an organization profile against the applicability conditions of a knowledge base. Reference information, not legal advice."
 authors:
-  - name: "VREINN SAS"
-    email: "legal@vreinn.com"
+  - family-names: "Martínez"
+    given-names: "Alien"
+    affiliation: "VREINN"
+    website: "https://alienmartinez.com"
+  - name: "VREINN"
+    website: "https://vreinn.com"
+contact:
+  - name: "GROU LLC"
+    email: "legal@aibusinesscore.com"
     website: "https://aibusinesscore.com"
+publisher:
+  name: "GROU LLC"
 version: "1.0.0"
 license: Apache-2.0
 url: "https://aibusinesscore.com/en"
@@ -21,7 +30,12 @@ references:
   - type: software
     title: "AI Business Core rules engine (@vreinn/aibc-engine)"
     authors:
-      - name: "VREINN SAS"
+      - family-names: "Martínez"
+        given-names: "Alien"
+        affiliation: "VREINN"
+      - name: "VREINN"
+    publisher:
+      name: "GROU LLC"
     version: "1.0.0"
     license: Apache-2.0
     repository-code: "https://github.com/alienvrein/ai-business-core"

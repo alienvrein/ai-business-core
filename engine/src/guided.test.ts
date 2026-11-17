@@ -1,5 +1,5 @@
 // SPDX-License-Identifier: Apache-2.0
-// SPDX-FileCopyrightText: 2026 VREINN SAS
+// SPDX-FileCopyrightText: 2026 GROU LLC
 import { describe, expect, it } from "vitest";
 import { AS_OF, fixtureKB } from "./__fixtures__/kb";
 import { OTHER_COUNTRY, type CompanyProfile } from "./profile";

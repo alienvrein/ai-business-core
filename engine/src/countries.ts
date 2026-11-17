@@ -1,5 +1,5 @@
 // SPDX-License-Identifier: Apache-2.0
-// SPDX-FileCopyrightText: 2026 VREINN SAS
+// SPDX-FileCopyrightText: 2026 GROU LLC
 
 // Every country (ISO 3166-1 alpha-2) and the regions the guided path sorts them into. Pure data with no
 // imports, so it runs in the browser and on the server.

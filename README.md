@@ -6,7 +6,7 @@
 
 ## English
 
-**AI Business Core (AIBC)** is the AI adoption and governance framework by VREINN SAS. This repository explains the framework and opens its deterministic rules engine, `@vreinn/aibc-engine`, under Apache-2.0.
+**AI Business Core (AIBC)** is the AI adoption and governance framework created and maintained by VREINN (framework lead: Alien Martínez). GROU LLC holds the copyright and the trademarks. This repository explains the framework and opens its deterministic rules engine, `@vreinn/aibc-engine`, under Apache-2.0.
 
 Website: https://aibusinesscore.com/en · Repository: https://github.com/alienvrein/ai-business-core
 
@@ -190,13 +190,13 @@ Use the vocabulary you need: the engine compares strings and does not require a 
 
 | Path | License | Copyright |
 |---|---|---|
-| Everything in this repository, unless stated otherwise | Apache-2.0 | 2026 VREINN SAS |
+| Everything in this repository, unless stated otherwise | Apache-2.0 | 2026 GROU LLC (created by VREINN) |
 
 The full license texts are in [`LICENSES/`](LICENSES/). [`REUSE.toml`](REUSE.toml) states the license of each path in machine-readable form, following the [REUSE specification](https://reuse.software/spec-3.3/). See also [`NOTICE`](NOTICE).
 
 ### Trademarks
 
-"AI Business Core", "AIBC" and the AI Business Core logo are trademarks of VREINN SAS. "VREINN" is a trademark of VREINN SAS. "AI Policy Generator" is a trademark of GROU LLC. The Apache-2.0 license grants no trademark rights. See [`TRADEMARKS.md`](TRADEMARKS.md).
+"AI Business Core", "AIBC", the AI Business Core logo and "AI Policy Generator" are trademarks of GROU LLC. "VREINN" is a trademark of its owner. The Apache-2.0 license grants no trademark rights. See [`TRADEMARKS.md`](TRADEMARKS.md).
 
 ### How to cite
 
@@ -211,7 +211,7 @@ Issues with bug reports, questions and proposals are welcome. External code cont
 
 ## Español
 
-**AI Business Core (AIBC)** es el marco de adopción y gobierno de la IA de VREINN SAS. Este repositorio explica el framework y abre su motor de reglas determinista, `@vreinn/aibc-engine`, con licencia Apache-2.0.
+**AI Business Core (AIBC)** es el marco de adopción y gobierno de la IA creado y mantenido por VREINN (responsable del framework: Alien Martínez). GROU LLC es el titular de los derechos de autor y de las marcas. Este repositorio explica el framework y abre su motor de reglas determinista, `@vreinn/aibc-engine`, con licencia Apache-2.0.
 
 Sitio web: https://aibusinesscore.com/es · Repositorio: https://github.com/alienvrein/ai-business-core
 
@@ -373,13 +373,13 @@ Usa el vocabulario que necesites: el motor compara cadenas y no exige una lista 
 
 | Ruta | Licencia | Derechos de autor |
 |---|---|---|
-| Todo el repositorio, salvo que se indique otra cosa | Apache-2.0 | 2026 VREINN SAS |
+| Todo el repositorio, salvo que se indique otra cosa | Apache-2.0 | 2026 GROU LLC (creado por VREINN) |
 
 Los textos completos de las licencias están en [`LICENSES/`](LICENSES/). [`REUSE.toml`](REUSE.toml) indica la licencia de cada ruta en formato legible por máquina, según la [especificación REUSE](https://reuse.software/spec-3.3/). Ver también [`NOTICE`](NOTICE).
 
 ### Marcas
 
-«AI Business Core», «AIBC» y el logotipo de AI Business Core son marcas de VREINN SAS. «VREINN» es una marca de VREINN SAS. «AI Policy Generator» es una marca de GROU LLC. La licencia Apache-2.0 no concede derechos sobre marcas. Ver [`TRADEMARKS.md`](TRADEMARKS.md).
+«AI Business Core», «AIBC», el logotipo de AI Business Core y «AI Policy Generator» son marcas de GROU LLC. «VREINN» es una marca de su titular. La licencia Apache-2.0 no concede derechos sobre marcas. Ver [`TRADEMARKS.md`](TRADEMARKS.md).
 
 ### Cómo citar
 

@@ -1,5 +1,5 @@
 // SPDX-License-Identifier: Apache-2.0
-// SPDX-FileCopyrightText: 2026 VREINN SAS
+// SPDX-FileCopyrightText: 2026 GROU LLC
 
 // A tiny, made-up knowledge base for the engine tests. Ids and rules are made up:
 // they only exercise the engine's logic (AND/OR conditions, phases, statuses, baseline rules, parents).

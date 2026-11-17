@@ -1,11 +1,11 @@
 version = 1
 SPDX-PackageName = "AI Business Core"
-SPDX-PackageSupplier = "VREINN SAS <legal@vreinn.com>"
+SPDX-PackageSupplier = "GROU LLC <legal@aibusinesscore.com>"
 SPDX-PackageDownloadLocation = "https://github.com/alienvrein/ai-business-core"
 
 # Default: code, examples, configuration and documentation.
 [[annotations]]
 path = "**"
 precedence = "closest"
-SPDX-FileCopyrightText = "2026 VREINN SAS"
+SPDX-FileCopyrightText = "2026 GROU LLC"
 SPDX-License-Identifier = "Apache-2.0"

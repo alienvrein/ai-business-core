@@ -1,6 +1,6 @@
 # @vreinn/aibc-engine
 
-The rules engine of **AI Business Core**, the AI adoption and governance framework by VREINN SAS.
+The rules engine of **AI Business Core**, the AI adoption and governance framework created and maintained by VREINN (framework lead: Alien Martínez).
 
 You give it an organization profile and a knowledge base of regulations. It returns the obligations whose conditions match the profile and the practice documents linked to them, sorted into buckets.
 
@@ -195,7 +195,7 @@ npm run example   # runs ../examples/basic.ts with tsx
 
 ## Español
 
-`@vreinn/aibc-engine` es el motor de reglas de **AI Business Core**, el marco de adopción y gobierno de la IA de VREINN SAS. Recibe el perfil de una organización y una base de conocimiento de normas. Devuelve las obligaciones cuyas condiciones encajan y los documentos de práctica vinculados a ellas (ids en `templates`), clasificados en `required`, `upcoming` y `recommended`.
+`@vreinn/aibc-engine` es el motor de reglas de **AI Business Core**, el marco de adopción y gobierno de la IA creado y mantenido por VREINN (responsable del framework: Alien Martínez). Recibe el perfil de una organización y una base de conocimiento de normas. Devuelve las obligaciones cuyas condiciones encajan y los documentos de práctica vinculados a ellas (ids en `templates`), clasificados en `required`, `upcoming` y `recommended`.
 
 - Es determinista y basado en reglas: no usa IA, no hace llamadas de red y no guarda nada. La base de conocimiento la pasa quien lo llama.
 - Las condiciones funcionan así: O dentro de una clave, Y entre claves, O entre las condiciones de una lista. No hay negación.
@@ -205,6 +205,6 @@ npm run example   # runs ../examples/basic.ts with tsx
 
 ## License
 
-Apache-2.0. © 2026 VREINN SAS.
+Apache-2.0. © 2026 GROU LLC. Created by VREINN.
 
-"AI Business Core" is a trademark of VREINN SAS. The license does not grant any right to use it.
+"AI Business Core" is a trademark of GROU LLC. The license does not grant any right to use it.

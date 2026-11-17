@@ -19,13 +19,13 @@ The engine runs without network access or storage, so the main concerns are issu
 Report it **privately**. Do not open a public issue.
 
 - **Preferred:** GitHub private vulnerability reporting, from the **Security** tab of this repository ("Report a vulnerability").
-- **Alternative:** email **legal@vreinn.com**.
+- **Alternative:** email **legal@aibusinesscore.com**.
 
 Please include a description of the issue, the affected files or versions, steps to reproduce, and its possible impact.
 
 ### Response
 
-On a best-effort basis, VREINN SAS aims to acknowledge a report within 5 business days and to send a status update within 30 days, and will keep you informed while the issue is handled.
+On a best-effort basis, GROU LLC, which maintains this repository with VREINN, aims to acknowledge a report within 5 business days and to send a status update within 30 days, and will keep you informed while the issue is handled.
 
 Please give us reasonable time to fix the issue before disclosing it publicly.
 
@@ -46,12 +46,12 @@ El motor funciona sin acceso a red ni almacenamiento, así que lo principal son 
 Infórmala **en privado**. No abras un issue público.
 
 - **Canal preferente:** el reporte privado de vulnerabilidades de GitHub, desde la pestaña **Security** de este repositorio («Report a vulnerability»).
-- **Alternativa:** correo a **legal@vreinn.com**.
+- **Alternativa:** correo a **legal@aibusinesscore.com**.
 
 Incluye una descripción del problema, los archivos o versiones afectados, los pasos para reproducirlo y su posible impacto.
 
 ### Respuesta
 
-En la medida de lo posible (best effort), VREINN SAS procura acusar recibo de un informe en un plazo de 5 días hábiles y enviar una actualización de estado en 30 días, y te mantendrá al tanto mientras se resuelve el problema.
+En la medida de lo posible (best effort), GROU LLC, que mantiene este repositorio con VREINN, procura acusar recibo de un informe en un plazo de 5 días hábiles y enviar una actualización de estado en 30 días, y te mantendrá al tanto mientras se resuelve el problema.
 
 Danos un tiempo razonable para corregir el problema antes de divulgarlo públicamente.

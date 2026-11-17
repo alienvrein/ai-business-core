@@ -1,5 +1,5 @@
 // SPDX-License-Identifier: Apache-2.0
-// SPDX-FileCopyrightText: 2026 VREINN SAS
+// SPDX-FileCopyrightText: 2026 GROU LLC
 
 // Guided path (which practice documents relate to the answers): the whole pipeline from the user's answers to the three tiers.
 // Any front end (a browser wizard, a server, a tool protocol) can call it and get exactly the same result.

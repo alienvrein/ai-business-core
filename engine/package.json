@@ -5,7 +5,7 @@
   "type": "module",
   "license": "Apache-2.0",
   "description": "Deterministic, rules-based reference engine of AI Business Core: matches an organization profile against the applicability conditions of a knowledge base. No AI, no network, no storage.",
-  "author": "VREINN SAS",
+  "author": "VREINN (https://vreinn.com)",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/alienvrein/ai-business-core.git",

@@ -1,5 +1,5 @@
 // SPDX-License-Identifier: Apache-2.0
-// SPDX-FileCopyrightText: 2026 VREINN SAS
+// SPDX-FileCopyrightText: 2026 GROU LLC
 
 // Rules-based reference engine of AI Business Core.
 // No AI, no network, no storage: it only matches a profile against the `applies_when` conditions of a

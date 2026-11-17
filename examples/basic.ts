@@ -1,5 +1,5 @@
 // SPDX-License-Identifier: Apache-2.0
-// SPDX-FileCopyrightText: 2026 VREINN SAS
+// SPDX-FileCopyrightText: 2026 GROU LLC
 
 // Minimal, runnable example of the AI Business Core rules engine.
 // Run it from engine/ with: npm run example

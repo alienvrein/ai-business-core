@@ -2,6 +2,11 @@
 
 All notable changes to this project are documented in this file. The engine follows [Semantic Versioning](https://semver.org/).
 
+## Rights holder — 2026-11-17
+
+- GROU LLC is now the copyright holder, trademark owner and licensor of AI Business Core and of `@vreinn/aibc-engine` (NOTICE, REUSE.toml, SPDX headers, CITATION.cff, TRADEMARKS.md, SECURITY.md). VREINN remains the author and maintainer (framework lead: Alien Martínez). No code change; the license stays Apache-2.0 and the package name does not change.
+- Legal, security and trademark contact: legal@aibusinesscore.com.
+
 ## Engine 1.0.0 — 2026-11-16
 
 - First public release of `@vreinn/aibc-engine`, under Apache-2.0.
@@ -16,6 +21,11 @@ All notable changes to this project are documented in this file. The engine foll
 # Registro de cambios
 
 En este archivo se documentan los cambios relevantes del proyecto. El motor sigue el [Versionado Semántico](https://semver.org/lang/es/).
+
+## Titular de los derechos — 2026-11-17
+
+- GROU LLC pasa a ser el titular de los derechos de autor y de las marcas y el licenciante de AI Business Core y de `@vreinn/aibc-engine` (NOTICE, REUSE.toml, cabeceras SPDX, CITATION.cff, TRADEMARKS.md, SECURITY.md). VREINN sigue siendo la autora y mantenedora (responsable del framework: Alien Martínez). Sin cambios de código; la licencia sigue siendo Apache-2.0 y el nombre del paquete no cambia.
+- Contacto legal, de seguridad y de marcas: legal@aibusinesscore.com.
 
 ## Motor 1.0.0 — 2026-11-16
 

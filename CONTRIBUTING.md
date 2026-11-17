@@ -33,6 +33,8 @@ npm run example
 
 The engine is deterministic by design: no AI or language-model calls, no network, no storage, no runtime dependencies. Its documentation uses referential wording ("relates to", "matches the conditions in the data") and never states that an organization is or is not compliant.
 
+The project is created and maintained by VREINN (framework lead: Alien Martínez); GROU LLC holds the copyright and is the licensor. Contributions are accepted under the same Apache-2.0 license (section 5 of the license). Licensing and trademark questions: legal@aibusinesscore.com.
+
 ---
 
 ## Español
@@ -63,3 +65,5 @@ npm run example
 ```
 
 El motor es determinista por diseño: sin llamadas a IA o modelos de lenguaje, sin red, sin almacenamiento y sin dependencias en tiempo de ejecución. Su documentación usa redacción referencial («se relaciona con», «encaja con las condiciones de los datos») y nunca afirma que una organización cumpla o deje de cumplir.
+
+El proyecto lo crea y mantiene VREINN (responsable del framework: Alien Martínez); GROU LLC es el titular de los derechos de autor y el licenciante. Las contribuciones se aceptan bajo la misma licencia Apache-2.0 (sección 5 de la licencia). Preguntas sobre licencias y marcas: legal@aibusinesscore.com.
