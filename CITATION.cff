@@ -39,3 +39,17 @@ references:
     version: "1.0.0"
     license: Apache-2.0
     repository-code: "https://github.com/alienvrein/ai-business-core"
+  - type: dataset
+    title: "AI Business Core Obligations Registry"
+    authors:
+      - family-names: "Martínez"
+        given-names: "Alien"
+        affiliation: "VREINN"
+      - name: "VREINN"
+    publisher:
+      name: "GROU LLC"
+    version: "1.0.0"
+    date-released: "2026-11-18"
+    license: CC-BY-4.0
+    doi: "10.5281/zenodo.24349775"
+    url: "https://aibusinesscore.com/en/registry"

@@ -22,6 +22,8 @@ Website: https://aibusinesscore.com/en · Repository: https://github.com/alienvr
 | **Obligations registry** | Regulations and obligations per country, with citation and official source. | **Not in this repository.** It can be consulted at https://aibusinesscore.com/en/registry |
 | **Practice documents** | The editable documents that help an organization put the framework into practice. | **Not in this repository.** They are a commercial product, AI Policy Generator, sold by GROU LLC. |
 
+The obligations registry is published as a dataset (CC BY 4.0): Zenodo DOI [10.5281/zenodo.24349774](https://doi.org/10.5281/zenodo.24349774) · Hugging Face [vreinn/ai-obligations-registry](https://huggingface.co/datasets/vreinn/ai-obligations-registry).
+
 The engine does not depend on either of the last two: it works with any knowledge base that matches its types (see [Build your own knowledge base](#build-your-own-knowledge-base)).
 
 ### What AI Business Core is
@@ -202,6 +204,8 @@ The full license texts are in [`LICENSES/`](LICENSES/). [`REUSE.toml`](REUSE.tom
 
 Use the metadata in [`CITATION.cff`](CITATION.cff).
 
+To cite the obligations registry data, cite the dataset version you used by its DOI: version 1.0.0 is [10.5281/zenodo.24349775](https://doi.org/10.5281/zenodo.24349775). The concept DOI [10.5281/zenodo.24349774](https://doi.org/10.5281/zenodo.24349774) covers every version and always resolves to the latest.
+
 ### How to contribute
 
 Issues with bug reports, questions and proposals are welcome. External code contributions (pull requests) are not accepted for now; see [`CONTRIBUTING.md`](CONTRIBUTING.md). Report security problems privately, as described in [`SECURITY.md`](SECURITY.md).
@@ -226,6 +230,8 @@ Sitio web: https://aibusinesscore.com/es · Repositorio: https://github.com/alie
 | **Ejemplo ejecutable** | Una base de conocimiento inventada y un script que ejecuta el motor sobre ella. | [`examples/`](examples/) |
 | **Registro de obligaciones** | Normas y obligaciones por país, con su cita y su fuente oficial. | **No está en este repositorio.** Se puede consultar en https://aibusinesscore.com/es/registro |
 | **Documentos de práctica** | Los documentos editables que ayudan a una organización a llevar el framework a la práctica. | **No están en este repositorio.** Son un producto comercial, AI Policy Generator, que vende GROU LLC. |
+
+El registro de obligaciones se publica como conjunto de datos (CC BY 4.0): DOI de Zenodo [10.5281/zenodo.24349774](https://doi.org/10.5281/zenodo.24349774) · Hugging Face [vreinn/ai-obligations-registry](https://huggingface.co/datasets/vreinn/ai-obligations-registry).
 
 El motor no depende de ninguna de las dos últimas piezas: funciona con cualquier base de conocimiento que se ajuste a sus tipos (ver [Construye tu propia base de conocimiento](#construye-tu-propia-base-de-conocimiento)).
 
@@ -384,6 +390,8 @@ Los textos completos de las licencias están en [`LICENSES/`](LICENSES/). [`REUS
 ### Cómo citar
 
 Usa los metadatos de [`CITATION.cff`](CITATION.cff).
+
+Para citar los datos del registro de obligaciones, cita la versión del conjunto de datos que usaste por su DOI: la versión 1.0.0 es [10.5281/zenodo.24349775](https://doi.org/10.5281/zenodo.24349775). El DOI de concepto [10.5281/zenodo.24349774](https://doi.org/10.5281/zenodo.24349774) reúne todas las versiones y siempre lleva a la última.
 
 ### Cómo contribuir
 
